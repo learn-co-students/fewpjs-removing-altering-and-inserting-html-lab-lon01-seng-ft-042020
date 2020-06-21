@@ -6,4 +6,4 @@ newHeader.id = 'victory';
 document.body.appendChild(newHeader)
 
 newHeader.textContent = 'is the champion';
-
+// newHeader.innerHTML = 'is the champion';
